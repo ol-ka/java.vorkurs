@@ -5,12 +5,12 @@ public class Aufgabe1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String name = "Olga Kalyta";
-		String strasse = "Hermann-Zilcher-Str";
+		String name = "Olga Rewritable";
+		String strasse = "Mustermann-Str";
 		String ort = "97074 Würzburg";
-		String tel_num = "017647260120";
-		String geb_datum = "15.05.1986";
-		int alter = 29;
+		String tel_num = "0176555555555";
+		String geb_datum = "01.01.1986";
+		int alter = 18;
 		
 		System.out.print("Name:\t\t" + name + "\n");
 		System.out.println("Straße:\t\t" + strasse);
